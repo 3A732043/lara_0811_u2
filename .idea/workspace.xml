@@ -12,7 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7e7130ee-f09a-4526-9ef4-e630d698a1d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +167,8 @@
       <workItem from="1603188906643" duration="3584000" />
       <workItem from="1603243127021" duration="3300000" />
       <workItem from="1603680651334" duration="640000" />
-      <workItem from="1603705957614" duration="774000" />
+      <workItem from="1603705957614" duration="1974000" />
+      <workItem from="1603709065675" duration="302000" />
     </task>
     <servers />
   </component>
@@ -185,5 +185,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
